@@ -1,0 +1,30 @@
+C:\Users\mphol\OneDrive\Desktop\My C# Projects\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
+C:\Users\mphol\OneDrive\Desktop\My C# Projects\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mphol\OneDrive\Desktop\My C# Projects\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+C:\Users\mphol\OneDrive\Desktop\My C# Projects\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
+C:\Users\mphol\OneDrive\Desktop\My C# Projects\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\mphol\OneDrive\Desktop\My C# Projects\Game\bin\Debug\net6.0\Game.exe
+C:\Users\mphol\OneDrive\Desktop\My C# Projects\Game\bin\Debug\net6.0\Game.deps.json
+C:\Users\mphol\OneDrive\Desktop\My C# Projects\Game\bin\Debug\net6.0\Game.runtimeconfig.json
+C:\Users\mphol\OneDrive\Desktop\My C# Projects\Game\bin\Debug\net6.0\Game.dll
+C:\Users\mphol\OneDrive\Desktop\My C# Projects\Game\bin\Debug\net6.0\Game.pdb
+C:\Users\mphol\OneDrive\Desktop\My C# Projects\Game\obj\Debug\net6.0\Game.dll
+C:\Users\mphol\OneDrive\Desktop\My C# Projects\Game\obj\Debug\net6.0\refint\Game.dll
+C:\Users\mphol\OneDrive\Desktop\My C# Projects\Game\obj\Debug\net6.0\Game.pdb
+C:\Users\mphol\OneDrive\Desktop\My C# Projects\Game\obj\Debug\net6.0\Game.genruntimeconfig.cache
+C:\Users\mphol\OneDrive\Desktop\My C# Projects\Game\obj\Debug\net6.0\ref\Game.dll
+C:\Users\mokwe\Desktop\Software Development\Game\bin\Debug\net6.0\Game.exe
+C:\Users\mokwe\Desktop\Software Development\Game\bin\Debug\net6.0\Game.deps.json
+C:\Users\mokwe\Desktop\Software Development\Game\bin\Debug\net6.0\Game.runtimeconfig.json
+C:\Users\mokwe\Desktop\Software Development\Game\bin\Debug\net6.0\Game.dll
+C:\Users\mokwe\Desktop\Software Development\Game\bin\Debug\net6.0\Game.pdb
+C:\Users\mokwe\Desktop\Software Development\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
+C:\Users\mokwe\Desktop\Software Development\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mokwe\Desktop\Software Development\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+C:\Users\mokwe\Desktop\Software Development\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
+C:\Users\mokwe\Desktop\Software Development\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\mokwe\Desktop\Software Development\Game\obj\Debug\net6.0\Game.dll
+C:\Users\mokwe\Desktop\Software Development\Game\obj\Debug\net6.0\refint\Game.dll
+C:\Users\mokwe\Desktop\Software Development\Game\obj\Debug\net6.0\Game.pdb
+C:\Users\mokwe\Desktop\Software Development\Game\obj\Debug\net6.0\Game.genruntimeconfig.cache
+C:\Users\mokwe\Desktop\Software Development\Game\obj\Debug\net6.0\ref\Game.dll
